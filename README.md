@@ -13,15 +13,8 @@
 
 - ⚡ Fun fact **I like to develop, to learn something new. "Don't give up" mode enabled**
 
+<h3 align="center">Languages and Tools:</h3>
+<img align="center"alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" />
+<img align="center"alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
 
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<img align="left" alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" />
-<img align="left" alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
-
-</a> <a href="" target="" rel=""> <img src="" alt="" width="40" height="40"/> </a> </p>
-
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=mirzonom&show_icons=true&theme=radical" />
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirzonom&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api?username=mirzonom&show_icons=true&theme=radical" />
