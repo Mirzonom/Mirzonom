@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Android**
 
-- 📫 How to reach me **r8502700@gmail.com**
+- 📫 How to reach me **r8502700@gmail.com** and **inommirzosharipov4@gmail.com**
 
 - ⚡ Fun fact **I like to develop, to learn something new. "Don't give up" mode enabled**
 
