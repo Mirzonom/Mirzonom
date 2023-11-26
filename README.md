@@ -12,7 +12,3 @@
 
 - ⚡ Fun fact **I like to develop, to learn something new. "Don't give up" mode enabled**
 
-<h3 align="center">Languages and Tools:</h3>
-<img align="center"alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=mirzonom&show_icons=true&theme=radical" />
