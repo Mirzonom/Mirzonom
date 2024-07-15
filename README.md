@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mirzoinom&label=Profile%20views&color=0e75b6&style=flat" alt="mirzoinom" /> </p>
 
-- 🌱 I’m currently learning **C#**
+- 🌱 
 
 - 💬 Ask me about **--?--**
 
